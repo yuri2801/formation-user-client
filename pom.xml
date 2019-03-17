@@ -19,7 +19,7 @@
         <snapshotRepository>
             <id>snapshots</id>
             <name>artifactory-74dc6fd88d-264kd-snapshots</name>
-            <url>http://artifactory.manciaux.be/artifactory/libs-snapshot</url>
+            <url>http://artifactory.manciaux.be/artifactory/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
 
